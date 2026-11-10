@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">lena</string>
+    <string name="accessibility_description">Registra toques de tela e aplicativos ativos para estimar o ritmo de uso e recomendar pausas conscientes.</string>
+    <string name="app_tagline">Consciência &amp; Equilíbrio Digital</string>
+    <string name="medical_disclaimer">Estimativa baseada em padrões de uso, não é diagnóstico médico.</string>
+    <string name="status_calm">Hoje: ritmo calmo e equilibrado</string>
+    <string name="status_accelerated">Hoje: uso um pouco acelerado</string>
+    <string name="pause_recommendation_title">Que tal uma pausa de 25 minutos?</string>
+    <string name="pause_recommendation_body">Os teus toques estão mais rápidos que o habitual. Uma breve pausa ajuda a restaurar a clareza e o foco.</string>
+    <string name="btn_start_break">Iniciar pausa de 25 min</string>
+    <string name="metric_total_taps">Toques totais</string>
+    <string name="metric_peak_hour">Hora de maior uso</string>
+    <string name="metric_rapid_spikes">Picos de interação rápida</string>
+    <string name="nav_home">Início</string>
+    <string name="nav_study">Estudo</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_simulator">Simulador</string>
+    <string name="nav_settings">Ajustes</string>
+</resources>

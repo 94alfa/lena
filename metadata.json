@@ -1,0 +1,6 @@
+{
+  "name": "lena",
+  "description": "Consciência & Equilíbrio Digital: estimativa comportamental de ritmo de uso, proporção de redes sociais e pausas conscientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
